@@ -1,0 +1,5 @@
+*.exe
+*.bmp
+/tmp
+/setup/*.exe
+
